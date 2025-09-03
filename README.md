@@ -39,9 +39,9 @@ We believe in clean design, transparency, and software that respects the user.
 
 ## Contact
 
-  Website: [ilbeol.org](https://ilbeol.org)
-  GitHub: [@Ilbeol](https://github.com/Ilbeol)
-  Email: [ilbeol.company@gmail.com](mailto:ilbeol.company@gmail.com)
+* Website: [ilbeol.org](https://ilbeol.org)
+* GitHub: [@Ilbeol](https://github.com/Ilbeol)
+* Email: [ilbeol.company@gmail.com](mailto:ilbeol.company@gmail.com)
 
 ---
 
