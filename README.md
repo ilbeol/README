@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Text.png" width="600" alt="WorkerBee Logo">
+  <img src="Text.svg" width="600" alt="WorkerBee Logo">
 </p>
 
 <p align="center">
